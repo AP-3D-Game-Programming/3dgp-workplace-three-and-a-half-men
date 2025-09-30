@@ -7,7 +7,7 @@ Een bewaker heeft een zaklamp met 3 batterijen, 1 batterij kan maar 1 kamer insp
 
 De 9 kamers
 * Dino kamer, kaarten sorteren
-* WO2, Squid game werpen met granaten
+* WO2, Squid game werpen met granaten gonggi
 * Indianen, een boog schieten
 * Piraten, bal werpen in een kanon
 * Prehistorie, wackamole
