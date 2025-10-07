@@ -41,7 +41,14 @@ Kamers:
   - EASY: 8 woorden
   - MEDIUM: 5 woorden
   - HARD: 3 woorden
-
+- Zoölogie: Een bewaker zegt een dier, de volgende bewaker krijgt 10 seconden om een dier te zeggen waarbij het eerste letter van de dier, het laatste letter is van de vorige bewaker's dier.
+  - EASY: 3 woorden
+  - MEDIUM: 5 woorden
+  - HARD: 8 woorden
+Basic-fit: De bewaker moet pushups doen lol
+  - EASY: 10 pushups
+  - MEDIUM: 20 pushups
+  - HARD: 30 pushups
 ---
 
 ### OUDE REGELS 
