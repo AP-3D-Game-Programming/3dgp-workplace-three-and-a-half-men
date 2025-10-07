@@ -13,10 +13,10 @@ Elke nacht worden de minigames moeilijker, er zijn 3 Difficulty grades in totaal
 EASY, MEDIUM, HARD
 
 Kamers:
-WO2: squid game met dice:
-EASY: 2 dobbelstenen
-MEDIUM: 3 dobbelstenen
-HARD: 5 dobbelstenen
+- WO2: squid game met dice:
+  - EASY: 2 dobbelstenen
+  - MEDIUM: 3 dobbelstenen
+  - HARD: 5 dobbelstenen
 
 
 
