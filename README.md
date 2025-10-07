@@ -14,27 +14,27 @@ EASY, MEDIUM, HARD
 
 Kamers:
 - WO2: squid game met dice:
-  - EASY: 2 dobbelstenen
-  - MEDIUM: 3 dobbelstenen
-  - HARD: 5 dobbelstenen
+  - EASY: 2 dobbelstenen   (20 seconden de tijd)
+  - MEDIUM: 3 dobbelstenen 20 seconden de tijd)
+  - HARD: 5 dobbelstenen  20 seconden de tijd)
 - Dinos: memory game met tiles
-  - EASY: 6 tegels
-  - MEDIUM: 8 tegels
+  - EASY: 6 tegels (3 kansen)
+  - MEDIUM: 8 tegels (4 kansen)
   - HARD: 10 tegels
 - 9/11: Papier airplane werpen tegen 2 torens
-  - EASY: 1 meter weg
-  - MEDIUM: 2 meter weg
-  - HARD: 3 meter weg
+  - EASY: 1 meter weg (3 kans)
+  - MEDIUM: 2 meter weg (2 kansen)
+  - HARD: 3 meter weg (1 kans)
 - Olympische spelen: ding flicken in een goal, als je mist krijg je een chaos punt, 1 poging
-  - EASY: 30cm ver weg
-  - MEDIUM: 60cm ver weg
+  - EASY: 30cm ver weg (1 kans)
+  - MEDIUM: 60cm ver weg (1 kans)
   - HARD: hele tafel
-- Piraten: Balletje in een beker zerpen, 1 poging, een mis is een chaos punt
-  - EASY: 1 meter weg
-  - MEDIUM: 2 meter weg
-  - HARD: 3 meter weg
+- Piraten: Balletje in een beker zerpen, 3 poging, een mis is een chaos punt
+  - EASY: halve meter weg
+  - MEDIUM: 1 meter weg
+  - HARD: 2 meter weg
 - Renaissance: Je krijgt een woord en moet die tekenen in de gegeven tijd. De andere bewakers moeten het gokken in de gegeven tijd, ze hebben oneindig gokken in de gegeven tijd.
-  - EASY: 40 seconden
+  - EASY: 40 seconden 
   - MEDIUM: 30 seconden
   - HARD: 20 seconden
 - Verlichting: De bewaker krijgt een woord en krijgt een aantal woorden dat die mat zeggen, met die woorden moeten de andere bewakers het woord gokken. Je mag niet het woord zeggen of delen ervan
