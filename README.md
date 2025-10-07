@@ -17,97 +17,90 @@ De 9 kamers
 * Olympische Spelen, field goal maken
 
 
-ChatGPT said:
-
-Leuk idee! 🎲 Laten we een spannend bordspelconcept maken waarin 2 bewakers het moeten opnemen tegen 2 vandalen in een museum vol waardevolle kunstwerken.
-Hier is een volledig uitgewerkt concept (regels, onderdelen, doelen en variaties):
-
-🏛️ Bordspel: Nacht in het Museum
+🧽 Bordspel: Museum Mayhem – De Grote Schoonmaak!
 🎯 Doel van het spel
 
-Bewakers: Voorkom dat de vandalen 3 kunstwerken vernielen of stelen voordat de tijd om is.
-
-Vandalen: Verniel of steel 3 kunstwerken voordat de tijd (12 rondes) voorbij is.
+Vier bewakers moeten elk zoveel mogelijk kamers schoonmaken door minigames te winnen.
+De speler die als eerste 9 kamers heeft schoongemaakt of de meeste kamers na 12 rondes wint!
 
 🧩 Spelonderdelen
 
-1 spelbord: plattegrond van het museum met 9 zalen (3x3 grid)
+1 spelbord met 9 kamers (3x3 grid)
 
-4 pionnen:
+4 bewakerspionnen (verschillende kleuren)
 
-2 blauwe = bewakers
+1 minigame-kaartendeck (45 kaarten, 9 soorten minigames)
 
-2 rode = vandalen
+9 schoonmaakfiches (om te markeren welke kamer schoon is)
 
-12 kunstwerkfiches (1 per zaal, behalve de ingang)
+1 rondeteller (12 beurten)
 
-1 zandloper of rondeteller (12 rondes)
+1 zandloper (30 seconden) of timer
 
-1 dobbelsteen (D6)
-
-Actiekaarten (optioneel): “camera aanzetten”, “alarm saboteren”, “sluiproute”, “extra stap”, enz.
+Eventueel: dobbelsteen, munt, pen/papier
 
 🕹️ Spelverloop
 
-Elke ronde bestaat uit 3 fases:
+Elke speler neemt om de beurt een actie in de volgende volgorde:
 
-Bewegen
+🔹 1. Kies een kamer
 
-Actie
+De speler kiest één van de 9 kamers op het bord.
 
-Einde van de ronde
+Kamers zijn vrij te kiezen (zolang ze nog niet schoongemaakt zijn).
 
-🔹 1. Bewegen
+Zodra een kamer schoon is, wordt er een schoonmaakfiche geplaatst.
 
-Spelers gooien om beurten de dobbelsteen.
+🔹 2. Kies een minigame
 
-De uitkomst bepaalt het aantal vakken (zalen) dat een speler mag bewegen (horizontaal of verticaal, niet diagonaal).
+Elke kamer heeft een minigamecategorie (bijv. behendigheid, geheugen, logica, geluk, snelheid, enz.).
+De speler pakt een minigamekaart van de stapel van die categorie.
 
-Bewakers en vandalen mogen elkaar niet doorlopen, maar wel dezelfde zaal delen.
+🔹 3. Speel de minigame
 
-🔹 2. Actie
+De speler heeft 1 poging en 30 seconden (of de aangegeven tijd op de kaart) om de minigame te voltooien.
 
-Elke speler mag 1 actie uitvoeren per ronde.
+Als ze slagen:
 
-Bewakers:
+Ze verdienen de kamer (fiche in hun kleur).
 
-Inspecteren (als er een vandaal in dezelfde zaal is → vandaal wordt “gepakt” en verplaatst naar de ingang).
+Als ze falen:
 
-Camera aanzetten (plaats camera-token → volgende ronde zie je beweging van vandalen in die zaal).
+Niets gebeurt — hun beurt eindigt, en de volgende speler is aan de beurt.
 
-Alarm herstellen (herstelt sabotage van vandalen).
+Ze mogen deze kamer pas weer proberen in een volgende beurt.
 
-Vandalen:
+🧩 Moeilijkheidsstijging
 
-Saboteren (uitschakelen van een camera of alarm in dezelfde zaal).
+Na elke 3 gewonnen minigames (globaal, niet per speler):
 
-Vernielen (1 beurt in een zaal met een kunstwerk om het te vernietigen → plaats een “vernield”-fiche).
+De minigames worden één niveau moeilijker (niveau 1 → 2 → 3).
 
-Sluipen (mag 1 extra zaal bewegen zonder gezien te worden, kost 1 actiekaart).
+Trek vanaf dat moment kaarten van het volgende moeilijkheidsniveau.
 
-🔹 3. Einde van de ronde
+💡 Strategietip:
+Slimme spelers kunnen de moeilijkste kamers vroeg aanpakken, want dan zijn ze nog op niveau 1.
+De makkelijke kamers kunnen ze bewaren voor later, wanneer alles moeilijker wordt.
 
-Rondeteller +1
+🎮 Voorbeelden van Minigames
 
-Na elke 3 rondes wordt het licht gedoofd (vandalen krijgen voordeel → bewakers kunnen niet alle zalen zien tenzij ze een camera hadden geplaatst).
+(Kies of verzin je eigen versies – dit maakt het spel dynamisch!)
 
-🧠 Wincondities
+HIER KOMEN DE MINIGAMES
 
-Bewakers winnen: als de vandalen minder dan 3 kunstwerken vernielen binnen 12 rondes.
+Het spel eindigt zodra:
 
-Vandalen winnen: als ze 3 kunstwerken hebben vernield vóór ronde 12.
+Eén speler alle 9 kamers heeft schoongemaakt, of
 
-🧩 Variaties
+De 12de ronde voorbij is.
 
-🎭 Solo-modus: 1 speler bestuurt beide bewakers tegen een AI-gestuurde vandaal (met dobbelsteenregels).
+🏆 Winnaar: de speler met de meeste schoongemaakte kamers.
+Bij gelijkstand: degene met de meeste moeilijke kamers (niveau 3) wint.
 
-🏃‍♂️ Snelle modus: max. 8 rondes en 2 vernielde kunstwerken voor winst.
+💡 Variaties
 
-🔦 Stealth-modus: vandalen bewegen in het geheim (bewegingen op papier noteren).
+Teammodus (2 vs 2): werk samen om het hele museum te zuiveren voor de tijd om is.
 
-💡 Extra idee voor spanning
+Versnellerkaarten: verdienen bij elk behaalde kamer → speciale voordelen (“1 herkansing”, “tijd verdubbelen”).
 
-Voeg geluidskaarten toe: als een speler in een andere zaal te veel lawaai maakt, hoort de andere kant dat en mag een extra stap zetten in die richting.
-
-Wil je dat ik er een visueel bordontwerp (plattegrond van het museum met zalen, camera’s, kunstwerken enz.) bij maak?
-Ik kan een afbeelding genereren van het speelbord zodat je het kunt printen of nabouwen.
+Mystery Rooms: sommige kamers bevatten “stofduivels” (extra moeilijke uitdaging met bonuspunten).
