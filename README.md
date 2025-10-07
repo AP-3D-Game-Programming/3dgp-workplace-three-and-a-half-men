@@ -34,8 +34,9 @@ Kamers:
   - MEDIUM: 2 meter weg
   - HARD: 3 meter weg
 
+---
 
-
+### OUDE REGELS 
 
 Description:
 Er zijn 9 kamers die je moet onderzoeken en opruimen. Elke dag gaat er iets fout en je moet rondzoeken.
