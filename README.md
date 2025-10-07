@@ -33,6 +33,14 @@ Kamers:
   - EASY: 1 meter weg
   - MEDIUM: 2 meter weg
   - HARD: 3 meter weg
+- Renaissance: Je krijgt een woord en moet die tekenen in de gegeven tijd. De andere bewakers moeten het gokken in de gegeven tijd, ze hebben oneindig gokken in de gegeven tijd.
+  - EASY: 40 seconden
+  - MEDIUM: 30 seconden
+  - HARD: 20 seconden
+- Verlichting: De bewaker krijgt een woord en krijgt een aantal woorden dat die mat zeggen, met die woorden moeten de andere bewakers het woord gokken. Je mag niet het woord zeggen of delen ervan
+  - EASY: 8 woorden
+  - MEDIUM: 5 woorden
+  - HARD: 3 woorden
 
 ---
 
