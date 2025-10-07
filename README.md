@@ -17,22 +17,22 @@ Kamers:
   - EASY: 2 dobbelstenen
   - MEDIUM: 3 dobbelstenen
   - HARD: 5 dobbelstenen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Dinos: memory game met tiles
+  - EASY: 6 tegels
+  - MEDIUM: 8 tegels
+  - HARD: 10 tegels
+- 9/11: Papier airplane werpen tegen 2 torens
+  - EASY: 1 meter weg
+  - MEDIUM: 2 meter weg
+  - HARD: 3 meter weg
+- Olympische spelen: ding flicken in een goal, als je mist krijg je een chaos punt, 1 poging
+  - EASY: 30cm ver weg
+  - MEDIUM: 60cm ver weg
+  - HARD: hele tafel
+- Piraten: Balletje in een beker zerpen, 1 poging, een mis is een chaos punt
+  - EASY: 1 meter weg
+  - MEDIUM: 2 meter weg
+  - HARD: 3 meter weg
 
 
 
