@@ -45,7 +45,7 @@ Kamers:
   - EASY: 3 woorden
   - MEDIUM: 5 woorden
   - HARD: 8 woorden
-Basic-fit: De bewaker moet pushups doen lol
+- Basic-fit: De bewaker moet pushups doen lol
   - EASY: 10 pushups
   - MEDIUM: 20 pushups
   - HARD: 30 pushups
