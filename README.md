@@ -1,6 +1,42 @@
 ### A day and a night at a museum
 JOB: Museumbewaker
 
+9 KAMERS 9 klusjes 3 spelers
+3 rondes in totaal
+
+Elke ronde kiest elke bewaker 3 kamers
+Je hebt 10 seconden om elk klusje te doen, als je faalt krijgt de museum 1 chaos punt.
+Wanneer er {5} chaos punten zijn in totaal, wordt iedereen ontslagen en verlies je het spel.
+Je moet 3 nachten doorwerken zonder te veel chaos punten te hebben en dan win je.
+
+Elke nacht worden de minigames moeilijker, er zijn 3 Difficulty grades in totaal:
+EASY, MEDIUM, HARD
+
+Kamers:
+WO2: squid game met dice:
+EASY: 2 dobbelstenen
+MEDIUM: 3 dobbelstenen
+HARD: 5 dobbelstenen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Description:
 Er zijn 9 kamers die je moet onderzoeken en opruimen. Elke dag gaat er iets fout en je moet rondzoeken.
 Een bewaker heeft een zaklamp met 3 batterijen, 1 batterij kan maar 1 kamer inspecteren.
