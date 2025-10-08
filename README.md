@@ -48,10 +48,10 @@ Kamers:
   - EASY: 3 woorden
   - MEDIUM: 5 woorden
   - HARD: 8 woorden
-- Basic-fit: De bewaker moet pushups doen, als die niet na 5 seconden een pushup do na de vorige, verliest die.
-  - EASY: 10 pushups
-  - MEDIUM: 20 pushups
-  - HARD: 30 pushups
+- Economie: Munten worden uitgestrooid op de tafel, ze mogen elkaar niet aanraken of te ver zijn. De bewaker moet zijn ogen dicht houden, voor maar 3 seconden mag die naar de munten zien, na de 3 seconden doet die hun ogen dicht. De bewaker moet raden hoeveel munten er in totaal waren. Exacte gok alleen.
+  - EASY: 1-8 munten
+  - MEDIUM: 9-15 munten
+  - HARD: 16-22 munten
 ---
 
 ### OUDE REGELS 
