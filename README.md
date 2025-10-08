@@ -4,24 +4,27 @@ JOB: Museumbewaker
 9 KAMERS 9 klusjes 3 spelers
 3 rondes in totaal
 
-Elke ronde kiest elke bewaker 3 kamers
-Je hebt 10 seconden om elk klusje te doen, als je faalt krijgt de museum 1 chaos punt.
-Wanneer er {5} chaos punten zijn in totaal, wordt iedereen ontslagen en verlies je het spel.
-Je moet 3 nachten doorwerken zonder te veel chaos punten te hebben en dan win je.
+Elke ronde kiest elke bewaker 3 kamers, ze moeten telkens kamers kiezen die we niet hebben gedaan. Alle **9 kamers** moeten gekowen worden. De klusjes beginnen pas wanneer alle bewakers hun kamers gekozen hebben.
+
+Bij het falen van een klusje krijgt de museum een **chaos punt**.
+
+Wanneer er **{5}** chaos punten zijn in totaal, wordt iedereen ontslagen en verlies je het spel.
+
+Je moet 3 nachten doorwerken zonder te veel chaos punten te krijgen en dan win je 🏆 yay.
 
 Elke nacht worden de minigames moeilijker, er zijn 3 Difficulty grades in totaal:
-EASY, MEDIUM, HARD
+**EASY, MEDIUM, HARD**
 
 Kamers:
-- WO2: squid game met dice:
+- WO2: squid game met dice (granaten):
   - EASY: 2 dobbelstenen   (20 seconden de tijd)
-  - MEDIUM: 3 dobbelstenen 20 seconden de tijd)
-  - HARD: 5 dobbelstenen  20 seconden de tijd)
-- Dinos: memory game met tiles
+  - MEDIUM: 3 dobbelstenen (20 seconden de tijd)
+  - HARD: 5 dobbelstenen  (20 seconden de tijd)
+- Dinos: memory game met tegels
   - EASY: 6 tegels (3 kansen)
   - MEDIUM: 8 tegels (4 kansen)
   - HARD: 10 tegels
-- 9/11: Papier airplane werpen tegen 2 torens
+- 9/11: Vliegtuig werpen naar 2 torens (de gebouwen zijn al rigged om te exploderen dus een kleine duwtje is genoeg)
   - EASY: 1 meter weg (3 kans)
   - MEDIUM: 2 meter weg (2 kansen)
   - HARD: 3 meter weg (1 kans)
@@ -29,7 +32,7 @@ Kamers:
   - EASY: 30cm ver weg (1 kans)
   - MEDIUM: 60cm ver weg (1 kans)
   - HARD: hele tafel
-- Piraten: Balletje in een beker zerpen, 3 poging, een mis is een chaos punt
+- Piraten: Balletje werpen in de piraten hoed, 3 pogingen
   - EASY: halve meter weg
   - MEDIUM: 1 meter weg
   - HARD: 2 meter weg
@@ -37,21 +40,25 @@ Kamers:
   - EASY: 40 seconden 
   - MEDIUM: 30 seconden
   - HARD: 20 seconden
-- Verlichting: De bewaker krijgt een woord en krijgt een aantal woorden dat die mat zeggen, met die woorden moeten de andere bewakers het woord gokken. Je mag niet het woord zeggen of delen ervan
+- Verlichting: De bewaker krijgt een woord en krijgt een bepaald aantal woorden dat die mag gebruiken om hun gekozen woord te beschrijven, met die woorden moeten de andere bewakers het woord gokken. Je mag niet het woord zeggen of delen ervan
   - EASY: 8 woorden
   - MEDIUM: 5 woorden
   - HARD: 3 woorden
-- Zoölogie: Een bewaker zegt een dier, de volgende bewaker krijgt 10 seconden om een dier te zeggen waarbij het eerste letter van de dier, het laatste letter is van de vorige bewaker's dier.
+- Zoölogie: Een bewaker zegt een dier, de volgende bewaker klokwijs krijgt 10 seconden om een dier te zeggen waarbij het eerste letter van de dier, het laatste letter is van de vorige bewaker's dier.
   - EASY: 3 woorden
   - MEDIUM: 5 woorden
   - HARD: 8 woorden
-- Basic-fit: De bewaker moet pushups doen lol
+- Basic-fit: De bewaker moet pushups doen, als die niet na 5 seconden een pushup do na de vorige, verliest die.
   - EASY: 10 pushups
   - MEDIUM: 20 pushups
   - HARD: 30 pushups
 ---
 
 ### OUDE REGELS 
+### NIET LEZEN
+### STAY OUT
+### DE REST BESTAAT NIET
+### STOP
 
 Description:
 Er zijn 9 kamers die je moet onderzoeken en opruimen. Elke dag gaat er iets fout en je moet rondzoeken.
