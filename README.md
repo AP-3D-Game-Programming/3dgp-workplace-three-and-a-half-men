@@ -8,9 +8,9 @@ Elke ronde kiest elke bewaker 3 kamers, ze moeten telkens kamers kiezen die we n
 
 Bij het falen van een klusje krijgt de museum een **chaos punt**.
 
-Wanneer er **{5}** chaos punten zijn in totaal, wordt iedereen ontslagen en verlies je het spel.
+Wanneer er **5** chaos punten zijn in totaal, wordt iedereen ontslagen en verlies je het spel.
 
-Je moet 3 nachten doorwerken zonder te veel chaos punten te krijgen en dan win je 🏆 yay.
+Je moet 3 nachten (rondes) doorwerken zonder te veel chaos punten te krijgen en dan win je 🏆 yay.
 
 Elke nacht worden de minigames moeilijker, er zijn 3 Difficulty grades in totaal:
 **EASY, MEDIUM, HARD**
