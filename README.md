@@ -1,7 +1,7 @@
 ### A day and a night at a museum
 JOB: Museumbewaker
 
-9 KAMERS 9 klusjes 3 spelers
+9 KAMERS 9 klusjes 3 spelers (bewakers)
 3 rondes in totaal
 
 Elke ronde kiest elke bewaker 3 kamers, ze moeten telkens kamers kiezen die we niet hebben gedaan. Alle **9 kamers** moeten gekowen worden. De klusjes beginnen pas wanneer alle bewakers hun kamers gekozen hebben.
@@ -36,11 +36,11 @@ Kamers:
   - EASY: halve meter weg
   - MEDIUM: 1 meter weg
   - HARD: 2 meter weg
-- Renaissance: Je krijgt een woord en moet die tekenen in de gegeven tijd. De andere bewakers moeten het gokken in de gegeven tijd, ze hebben oneindig gokken in de gegeven tijd.
+- Renaissance: Je krijgt een woord en moet die tekenen in de gegeven tijd. De andere bewakers moeten het raden in de gegeven tijd, ze hebben oneindig gokken in de gegeven tijd.
   - EASY: 40 seconden 
   - MEDIUM: 30 seconden
   - HARD: 20 seconden
-- Verlichting: De bewaker krijgt een woord en krijgt een bepaald aantal woorden dat die mag gebruiken om hun gekozen woord te beschrijven, met die woorden moeten de andere bewakers het woord gokken. Je mag niet het woord zeggen of delen ervan
+- Verlichting: De bewaker krijgt een woord en krijgt een bepaald aantal woorden dat die mag gebruiken om hun gekozen woord te beschrijven, met die woorden moeten de andere bewakers het woord gokken. Je mag het woord zelf of delen ervan niet gebruiken
   - EASY: 8 woorden
   - MEDIUM: 5 woorden
   - HARD: 3 woorden
