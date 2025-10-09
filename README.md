@@ -23,19 +23,19 @@ Kamers:
 - Dinos: memory game met tegels
   - EASY: 6 tegels (3 kansen)
   - MEDIUM: 8 tegels (4 kansen)
-  - HARD: 10 tegels
+  - HARD: 10 tegels (5 kansen)
 - 9/11: Vliegtuig werpen naar 2 torens (de gebouwen zijn al rigged om te exploderen dus een kleine duwtje is genoeg)
-  - EASY: 1 meter weg (3 kans)
+  - EASY: 1 meter weg (3 kansen)
   - MEDIUM: 2 meter weg (2 kansen)
   - HARD: 3 meter weg (1 kans)
 - Olympische spelen: ding flicken in een goal, als je mist krijg je een chaos punt, 1 poging
-  - EASY: 30cm ver weg (1 kans)
-  - MEDIUM: 60cm ver weg (1 kans)
+  - EASY: 30cm ver weg
+  - MEDIUM: 60cm ver weg
   - HARD: hele tafel
-- Piraten: Balletje werpen in de piraten hoed, 3 pogingen
-  - EASY: halve meter weg
-  - MEDIUM: 1 meter weg
-  - HARD: 2 meter weg
+- Piraten: Balletje werpen in de piraten hoed, 1 poging
+  - EASY: 1 meter weg
+  - MEDIUM: 2 meter weg
+  - HARD: 3 meter weg
 - Renaissance: Je krijgt een woord en moet die tekenen in de gegeven tijd. De andere bewakers moeten het raden in de gegeven tijd, ze hebben oneindig gokken in de gegeven tijd.
   - EASY: 40 seconden 
   - MEDIUM: 30 seconden
