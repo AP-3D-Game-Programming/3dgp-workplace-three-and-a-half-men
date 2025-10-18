@@ -41,8 +41,14 @@ public class SimpleCollectibleScript : MonoBehaviour {
 	{
 		if(collectSound)
 			AudioSource.PlayClipAtPoint(collectSound, transform.position);
-		if(collectEffect)
+		if (collectEffect)
 			Instantiate(collectEffect, transform.position, Quaternion.identity);
+			
+
+
+    	CollectibleUI ui = Object.FindFirstObjectByType<CollectibleUI>();
+    	if (ui != null)
+        	ui.CollectibleCollected();
 
 		//Below is space to add in your code for what happens based on the collectible type
 
