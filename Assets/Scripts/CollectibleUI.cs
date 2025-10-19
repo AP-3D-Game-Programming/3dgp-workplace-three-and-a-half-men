@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class CollectibleUI : MonoBehaviour
 {
@@ -17,6 +18,12 @@ public class CollectibleUI : MonoBehaviour
     {
         totalCollectibles--;
         UpdateUI();
+
+         if (totalCollectibles <= 0)
+        {
+            Debug.Log("All collectibles collected! Returning to MainScene...");
+            SceneManager.LoadScene("Scenes/MainScene");
+        }
     }
     void UpdateUI()
     {
