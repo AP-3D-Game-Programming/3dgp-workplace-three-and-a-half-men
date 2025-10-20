@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 7786529033709197584}
   - component: {fileID: 4412468507945536392}
   - component: {fileID: 6403860037444067028}
-  - component: {fileID: 4551283144455804609}
   m_Layer: 0
   m_Name: Collectible_GemDiamond
   m_TagString: Untagged
@@ -112,18 +111,3 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.008316507, y: 0.008831046, z: 0.008583216}
   m_Center: {x: -0.00012399661, y: -0.0018298863, z: -0.00027787534}
---- !u!114 &4551283144455804609
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4038710814808149745}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b66e4260f74ebc4daff7d71f367fef4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Collectible
-  rotationSpeed: 0.5
-  onCollectEffect: {fileID: 9163842254569548763, guid: a64312fe794124baa923bcca22ea4631,
-    type: 3}
