@@ -178,12 +178,29 @@ namespace StarterAssets
         private void GroundedCheck()
         {
             // set sphere position, with offset
-            Vector3 spherePosition = new Vector3(transform.position.x, transform.position.y - GroundedOffset,
-                transform.position.z);
-            Grounded = Physics.CheckSphere(spherePosition, GroundedRadius, GroundLayers,
-                QueryTriggerInteraction.Ignore);
+            Vector3 spherePosition = new Vector3(transform.position.x, transform.position.y - GroundedOffset, transform.position.z);
 
-            // update animator if using character
+            // first, sphere check for proximity
+            bool hitGround = Physics.CheckSphere(spherePosition, GroundedRadius, GroundLayers, QueryTriggerInteraction.Ignore);
+
+            // then, raycast straight down to ensure it's actually the floor
+            if (hitGround && Physics.Raycast(transform.position, Vector3.down, out RaycastHit hit, GroundedRadius + 0.2f, GroundLayers))
+            {
+                // ensure the surface is mostly flat (not a wall)
+                if (Vector3.Angle(hit.normal, Vector3.up) <= 90f)  // 45° max slope
+                {
+                    Grounded = true;
+                }
+                else
+                {
+                    Grounded = false;
+                }
+            }
+            else
+            {
+                Grounded = false;
+            }
+
             if (_hasAnimator)
             {
                 _animator.SetBool(_animIDGrounded, Grounded);
