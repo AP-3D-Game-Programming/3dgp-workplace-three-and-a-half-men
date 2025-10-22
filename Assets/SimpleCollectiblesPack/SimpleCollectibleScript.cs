@@ -1,94 +1,67 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using TMPro;
 
 [RequireComponent(typeof(AudioSource))]
-public class SimpleCollectibleScript : MonoBehaviour {
+public class SimpleCollectibleScript : MonoBehaviour
+{
+    public enum CollectibleTypes { NoType, Type1, Type2, Type3, Type4, Type5 };
+    public CollectibleTypes CollectibleType;
 
-	public enum CollectibleTypes {NoType, Type1, Type2, Type3, Type4, Type5}; // you can replace this with your own labels for the types of collectibles in your game!
+    public bool rotate;
+    public float rotationSpeed;
+    public AudioClip collectSound;
+    public GameObject collectEffect;
 
-	public CollectibleTypes CollectibleType; // this gameObject's type
+    [Header("UI Settings")]
+    public TextMeshProUGUI pressEText; // Inspector'dan atayacağız
 
-	public bool rotate; // do you want it to rotate?
+    private bool playerInRange = false;
 
-	public float rotationSpeed;
+    void Update()
+    {
+        if (rotate)
+            transform.Rotate(Vector3.up * rotationSpeed * Time.deltaTime, Space.World);
 
-	public AudioClip collectSound;
+        if (playerInRange && Input.GetKeyDown(KeyCode.E))
+        {
+            Collect();
+        }
+    }
 
-	public GameObject collectEffect;
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            playerInRange = true;
+            if (pressEText != null)
+                pressEText.gameObject.SetActive(true);
+        }
+    }
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
+    void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            playerInRange = false;
+            if (pressEText != null)
+                pressEText.gameObject.SetActive(false);
+        }
+    }
 
-		if (rotate)
-			transform.Rotate (Vector3.up * rotationSpeed * Time.deltaTime, Space.World);
+    void Collect()
+    {
+        if (collectSound)
+            AudioSource.PlayClipAtPoint(collectSound, transform.position);
+        if (collectEffect)
+            Instantiate(collectEffect, transform.position, Quaternion.identity);
 
-	}
+        CollectibleUI ui = Object.FindFirstObjectByType<CollectibleUI>();
+        if (ui != null)
+            ui.CollectibleCollected();
 
-	void OnTriggerEnter(Collider other)
-	{
-		if (other.tag == "Player") {
-			Collect ();
-		}
-	}
+        if (pressEText != null)
+            pressEText.gameObject.SetActive(false);
 
-	public void Collect()
-	{
-		if(collectSound)
-			AudioSource.PlayClipAtPoint(collectSound, transform.position);
-		if (collectEffect)
-			Instantiate(collectEffect, transform.position, Quaternion.identity);
-			
-
-
-    	CollectibleUI ui = Object.FindFirstObjectByType<CollectibleUI>();
-    	if (ui != null)
-        	ui.CollectibleCollected();
-
-		//Below is space to add in your code for what happens based on the collectible type
-
-		if (CollectibleType == CollectibleTypes.NoType) {
-
-			//Add in code here;
-
-			Debug.Log ("Do NoType Command");
-		}
-		if (CollectibleType == CollectibleTypes.Type1) {
-
-			//Add in code here;
-
-			Debug.Log ("Do NoType Command");
-		}
-		if (CollectibleType == CollectibleTypes.Type2) {
-
-			//Add in code here;
-
-			Debug.Log ("Do NoType Command");
-		}
-		if (CollectibleType == CollectibleTypes.Type3) {
-
-			//Add in code here;
-
-			Debug.Log ("Do NoType Command");
-		}
-		if (CollectibleType == CollectibleTypes.Type4) {
-
-			//Add in code here;
-
-			Debug.Log ("Do NoType Command");
-		}
-		if (CollectibleType == CollectibleTypes.Type5) {
-
-			//Add in code here;
-
-			Debug.Log ("Do NoType Command");
-		}
-
-		Destroy (gameObject);
-	}
+        Destroy(gameObject);
+    }
 }
