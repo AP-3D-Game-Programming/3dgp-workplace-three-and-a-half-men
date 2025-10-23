@@ -1,29 +1,27 @@
 using UnityEngine;
+using TMPro;
 
 public class TutorialZone : MonoBehaviour
 {
-    public enum ZoneType { Move, Jump, Collect }
-    public ZoneType zoneType;
+    public TMP_Text tutorialText;   // Gösterilecek yazı
+    [TextArea]
+    public string message;          // Bu bölgeye özel mesaj
+    public bool hideOnExit = true;  // Çıkınca yazı gizlensin mi?
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
         {
-            var manager = FindFirstObjectByType<TutorialManager>();
-            if (manager == null) return;
+            tutorialText.text = message;
+            tutorialText.gameObject.SetActive(true);
+        }
+    }
 
-            switch (zoneType)
-            {
-                case ZoneType.Move:
-                    manager.ShowMessage(manager.moveMessage);
-                    break;
-                case ZoneType.Jump:
-                    manager.ShowMessage(manager.jumpMessage);
-                    break;
-                case ZoneType.Collect:
-                    manager.ShowMessage(manager.collectMessage);
-                    break;
-            }
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Player") && hideOnExit)
+        {
+            tutorialText.gameObject.SetActive(false);
         }
     }
 }

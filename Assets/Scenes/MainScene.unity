@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 108286390}
   - component: {fileID: 108286389}
   m_Layer: 0
-  m_Name: 'Door: Prehistory'
+  m_Name: 'Door: The Medieval'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Door: Prehistory'
+  m_text: 'Door: The Medieval'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -679,7 +679,7 @@ GameObject:
   - component: {fileID: 280781850}
   - component: {fileID: 280781849}
   m_Layer: 0
-  m_Name: 'Door: 9/11 '
+  m_Name: 'Door: Prehistory (Tutorial)'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -693,7 +693,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 280781847}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: -26.1}
+  m_LocalPosition: {x: 0, y: 0, z: -31.11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -701,8 +701,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0, y: -8.7}
-  m_SizeDelta: {x: 20, y: 5}
+  m_AnchoredPosition: {x: -0, y: -7.79}
+  m_SizeDelta: {x: 30.03, y: 6.82}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &280781849
 MonoBehaviour:
@@ -724,7 +724,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Door: 9/11 '
+  m_text: 'Door: Prehistory (Tutorial)'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1967,7 +1967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e5943178604afd4db76325303ab15f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Door
-  sceneToLoad: Scenes/Serhat
+  sceneToLoad: Scenes/Tutorial_Scene
   pressEText: {fileID: 1272639566}
 --- !u!23 &791718478
 MeshRenderer:
@@ -2779,7 +2779,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e5943178604afd4db76325303ab15f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Door
-  sceneToLoad: Scenes/Angeles
+  sceneToLoad: Scenes/Serhat
   pressEText: {fileID: 1353191841}
 --- !u!23 &1104576892
 MeshRenderer:
@@ -3061,7 +3061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e5943178604afd4db76325303ab15f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Door
-  sceneToLoad: Scenes/Sam
+  sceneToLoad: Scenes/Angeles
   pressEText: {fileID: 1001493047}
 --- !u!23 &1224000774
 MeshRenderer:
@@ -5366,7 +5366,7 @@ GameObject:
   - component: {fileID: 1878590086}
   - component: {fileID: 1878590085}
   m_Layer: 0
-  m_Name: 'Door: The Medieval'
+  m_Name: 'Door: 9/11 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5411,7 +5411,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Door: The Medieval'
+  m_text: 'Door: 9/11 '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
