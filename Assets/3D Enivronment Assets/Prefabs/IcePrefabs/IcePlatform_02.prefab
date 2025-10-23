@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7327834123462202445}
   - component: {fileID: 908986095060005578}
   - component: {fileID: 9014458185047583527}
-  - component: {fileID: -3828012062715342091}
+  - component: {fileID: 1926708193730967683}
   m_Layer: 0
   m_Name: IcePlatform_02
   m_TagString: Untagged
@@ -90,8 +90,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &-3828012062715342091
-BoxCollider:
+--- !u!64 &1926708193730967683
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -106,8 +106,9 @@ BoxCollider:
     m_Bits: 0
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
-  m_ProvidesContacts: 0
+  m_ProvidesContacts: 1
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 33.330753, y: 4.4379263, z: 30.194893}
-  m_Center: {x: 1.3679118, y: 2.2189627, z: -0.4799714}
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2587322092072396677, guid: 464197cd90488094aae443e5e59a6d77, type: 3}
