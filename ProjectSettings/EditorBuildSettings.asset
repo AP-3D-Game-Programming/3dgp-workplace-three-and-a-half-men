@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Serhat.unity
     guid: 41c5647238b6f944ea4ca97ea0fe920c
   - enabled: 1
-    path: Assets/Scenes/Sam.unity
+    path: Assets/Scenes/Tutorial_Scene.unity
     guid: 2c4abd0615fd5ad4db1bd51114ee92d3
   - enabled: 1
     path: Assets/Scenes/Louis.unity
