@@ -29,4 +29,9 @@ public class CollectibleUI : MonoBehaviour
     {
         collectibleText.text = "Remaining: " + totalCollectibles;
     }
+    public void ReturnToMainScene()
+    {
+        Debug.Log("Returning to MainScene...");
+        SceneManager.LoadScene("Scenes/MainScene");
+    }
 }
