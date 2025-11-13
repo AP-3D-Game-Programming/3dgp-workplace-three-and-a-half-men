@@ -1,0 +1,33 @@
+This is a Very Simple Model of a Airplane
+
+Features:
+
+-Top 10 Airline Texture include Qatar Airways, Singapore Airlines, ANA All Nippon Airways, Cathay Pacific Airways, Emirates, EVA Air, Hainan Airlines, Qantas Airways, Lufthansa, Thai Airways
+-Game Ready Model 
+-Very Simple Model 
+-All objects are separated and named 
+-Easy to move and animate 
+-Model Have UV Texture 
+-Clean topology and easy to edit 
+-Have Base Map, Normal Map, Ambient Map, Roughness Map, metallic map 
+-No special plugin needed to open scene.
+
+File formats:
+
+c4d, blender, 3ds max. dxf, obj, fbx, .ma & .mb files (Maya 2018).Maya 2018 standard materials scenes
+
+Poly Count:
+
+•Verts: 18367 
+•Edges: 35126 
+•Faces: 17037 
+•Tris : 34286
+•Uvs  : 18731
+
+Every model has been checked with the appropriate software Like maya 2018 and C4D R-20.
+
+Warning: Depending on which software package you are using, the exchange formats (c4d, dxf, 3ds, obj, Ma, MB and .fbx) may not match the preview images exactly. Due to the nature of these formats, there may be some textures that have to be loaded by hand and possibly triangulated geometry. Hope you like it! Also check out my other models, just click on my user name to see complete gallery.
+
+For any problems please feel free to contact me.
+
+Don’t forget to rate and enjoy! Also see my other work
